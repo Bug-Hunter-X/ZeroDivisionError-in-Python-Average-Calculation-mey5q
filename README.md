@@ -1,0 +1,2 @@
+# Python ZeroDivisionError Example
+This repository demonstrates a common error in Python: the ZeroDivisionError.  The `bug.py` file contains code that is vulnerable to this error when calculating the average of an empty list. The corrected version is found in `bugSolution.py`.
